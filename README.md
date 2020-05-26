@@ -1,1 +1,1 @@
-# Python_Scraping
+# Code for scraping information about books and saving in csv files.
